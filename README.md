@@ -28,13 +28,6 @@
          - 3.1.4.4    Annotations
       - 3.1.5   Association
           - 3.1.5.1    KeySet
-- Plan
-  - [Day 1] 
-    - 3.1 ODM
-      - 3.1.1 Study
-        - 3.1.1.1 GlobalVariables </br>
-        - 3.1.1.2 BasicDefinitions </br>
-  - [Day 2]
   
 
 </br>
