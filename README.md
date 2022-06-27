@@ -9,15 +9,31 @@
 
 ## 📑 Table of Contents
 - [What is this?](#what-is-this)
-- [Day 1] 
-  </br>
-  3.1 ODM
-  </br>
-    3.1.1 Study
-  </br>
-      3.1.1.1 GlobalVariables </br>
-      3.1.1.2 BasicDefinitions </br>
-- [Day 2]
+- Contents
+  - 3.1   ODM
+      - 3.1.1   Study
+          - 3.1.1.1   GlobalVariables
+          - 3.1.1.2   BasicDefinitions
+          - 3.1.1.3   MetaDataVersion
+      - 3.1.2   AdminData
+          - 3.1.2.1User
+          - 3.1.2.2    Location
+          - 3.1.2.3    SignatureDef
+     - 3.1.3   ReferenceData
+     - 3.1.4   ClinicalData
+         - 3.1.4.1    SubjectData
+         - 3.1.4.2    AuditRecordGroup
+         - 3.1.4.3    Signatures
+         - 3.1.4.4    Annotations
+      - 3.1.5   Association
+          - 3.1.5.1    KeySet
+- Plan
+  - [Day 1] 
+    - 3.1 ODM
+      - 3.1.1 Study
+        - 3.1.1.1 GlobalVariables </br>
+        - 3.1.1.2 BasicDefinitions </br>
+  - [Day 2]
   
 
 </br>
