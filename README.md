@@ -9,6 +9,7 @@
 
 ## 📑 Table of Contents
 - [What is this?](#what-is-this)
+- Reference [ODM file](https://github.com/ssso-pro1/CDISC-Study/blob/main/ODM/CDISC%20ODM.pdf)
 - Contents
   - 3.1   ODM
       - 3.1.1   Study
