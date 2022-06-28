@@ -81,7 +81,8 @@ This is a free-text description of the study.
 ```
 This is the sponsor's internal name for the protocol.
 ```
-프로토콜에 대한 스폰서(?)의 내부 이름을 의미한다.
+프로토콜에 대한 스폰서의 내부 이름을 의미한다.<br>
+실질적으로는 `Protocol No.`로 주로 사용되며 `CNR_001` 등 연구 고유 번호를 의미한다. 예를 들어 스터디 이름이 너무 긴 경우 스터디 이름의 약어로 쓰기도 한다.
 
 <br><hr>
 
@@ -200,7 +201,7 @@ Note: The xml:lang attribute is part of the XML standard.
 |`text`|xs:string|any sequence of characters|
 |`oid`|xs:string|any sequence of characters<br>(minLength="1")|
 |`name`|xs:string|any sequence of characters<br>(minLength="1")|
-|`languageTag`|xs:language|LL (-CC)*(?)|
+|`languageTag`|xs:language|LL (-CC)* e.g. `fr-FR` |
 
 > 참고 : `xs`는 `XSD` 스키마 선언시 접두사
 
