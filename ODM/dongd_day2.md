@@ -83,5 +83,9 @@
       - oidref 형식으로, 참조는 ConditionDef 의 oid 를 참조한다.
       - CollectionExceptionConditionOID 속성이 제공되면 이 Form에 대한 데이터가 수집되지 않아야 하는 상황을 설명하는 ConditionDef를 참조한다.
       - form 데이터가 수집되지 않아야 될 상황에 대한 레퍼런스.
+      - 참조를 conditionDef에 대해서 진행함을 기억하자
+      - ![image](https://user-images.githubusercontent.com/25499386/176353717-0a3c9c12-6550-4450-838e-12a3ce5cbf8b.png)
+      conditionDef 의 body에 조건에 해당하는 내용이 적혀있고, 이하 formal 태그내용에 이에대한 조건식이 작성되어 있음.
+
 
       
