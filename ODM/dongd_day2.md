@@ -86,6 +86,14 @@
       - 참조를 conditionDef에 대해서 진행함을 기억하자
       - ![image](https://user-images.githubusercontent.com/25499386/176353717-0a3c9c12-6550-4450-838e-12a3ce5cbf8b.png)
       conditionDef 의 body에 조건에 해당하는 내용이 적혀있고, 이하 formal 태그내용에 이에대한 조건식이 작성되어 있음.
+      
+      이 값이 참인 경우에 해당값을 수집하지 않는 방식.
+      ![image](https://user-images.githubusercontent.com/25499386/176354276-31564961-abd2-4503-9f9b-765fcbee7e19.png)
+      c.2는 여자가 아닌 경우 
+      ![image](https://user-images.githubusercontent.com/25499386/176354353-07442040-491d-4c82-bec9-f900ad1770c5.png)
+      임신 관련질문에 대한 exception으로 c.2를 
+
+      
 
 
       
