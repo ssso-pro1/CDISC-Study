@@ -113,7 +113,15 @@
 
   ```
 
-  - Body : (Description?, Question?, ExternalQuestion?, MeasurementUnitRef*, RangeCheck*, CodeListRef?, Role* Deprecated, Alias*)
+  - Body : Description?, Question?, ExternalQuestion?, MeasurementUnitRef*, RangeCheck*, CodeListRef?, Role* Deprecated, Alias*
+  - Question 요소에는 이 항목에 대한 데이터를 제공하라는 메시지가 표시될 때 사용자에게 표시되는 텍스트가 포함됩니다. 
+  - ExternalQuestion 요소는 동일한 작업을 수행하지만 외부에서 정의된 질문을 참조합니다. 둘 다 있는 경우 일관성이 있어야 합니다.
+  - MeasurementUnitRefs는 이 유형의 항목에 대해 허용되는 측정 단위를 나열합니다. 숫자 항목만 측정 단위를 가질 수 있습니다.
+  - MeasurementUnitRef가 하나만 있는 경우 이 유형의 모든 항목은 기본적으로 이 측정 단위를 사용합니다. ItemDef-MeasurementUnitRef.
+  - 수치 항목의 정의에 MeasurementUnitRef가 없는 경우 항목의 값은 스칼라(즉, 순수)입니다.
+  - RangeChecks는 이 유형의 항목에 대해 허용되는 값을 제한합니다.
+  - CodeListRef(있는 경우)는 이 유형의 항목에 대해 허용되는 값을 참조된 코드 목록의 구성원으로 제한합니다.
+  
   - ItemDef는 연구 내에서 발생할 수 있는 항목 유형을 설명합니다. 항목 속성에는 이름, 데이터 유형, 측정 단위, 범위 또는 코드 목록 제한 사항 및 기타 여러 속성이 포함됩니다.
 
   - 해당 태그의 속성은 다음과 같다.
@@ -206,13 +214,6 @@
     - VISITDY (Planned study day of VISIT)
 
     이런 변수들을 쓴다더라~
+    
+    See the SDTM Specification and Implementation Guide for more information about SDTM variables.
 
-    - 이하 Body에 대한 설명.
-    Question 요소에는 이 항목에 대한 데이터를 제공하라는 메시지가 표시될 때 사용자에게 표시되는 텍스트가 포함됩니다. ExternalQuestion 요소는 동일한 작업을 수행하지만 외부에서 정의된 질문을 참조합니다. 둘 다 있는 경우 일관성이 있어야 합니다.
-
-    MeasurementUnitRefs는 이 유형의 항목에 대해 허용되는 측정 단위를 나열합니다. 숫자 항목만 측정 단위를 가질 수 있습니다. MeasurementUnitRef가 하나만 있는 경우 이 유형의 모든 항목은 기본적으로 이 측정 단위를 사용합니다. ItemDef-MeasurementUnitRef.
-    수치 항목의 정의에 MeasurementUnitRef가 없는 경우 항목의 값은 스칼라(즉, 순수)입니다.
-
-    RangeChecks는 이 유형의 항목에 대해 허용되는 값을 제한합니다.
-
-    CodeListRef(있는 경우)는 이 유형의 항목에 대해 허용되는 값을 참조된 코드 목록의 구성원으로 제한합니다.
