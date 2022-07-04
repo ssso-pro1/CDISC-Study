@@ -178,7 +178,9 @@
     - sasName 형식으로 작성 
     - 작성 형태는 다음과 같음. ( letter | _ )( letter | digit | _ )* (maxLength="8")
     - SDSVarName, Origin 및 Comment 속성은 최신 버전의 CDISC SDTM에 설명된 대로 제출 정보를 전달합니다.
-    - 제출 표준에 대해 외부 소프트웨어가 환자 정보를 SDTM 변수에 맞춰 환자정보를 일치시키기 위한 변수. (환자정보를 일치시키다.)matching up patients 
+    - 제출 표준에 대해 외부 소프트웨어가 환자 정보를 SDTM 변수에 맞춰 환자정보를 일치시키기 위한 변수. (환자정보를 일치시키다.)matching up patients
+    - ![image](https://user-images.githubusercontent.com/25499386/177081789-2af4ec7f-918a-4a62-8407-ec5d40b3331d.png)
+ 
     ### Origin
     - text 형식으로 작성
     ### Comment
