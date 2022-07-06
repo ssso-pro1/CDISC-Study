@@ -1,0 +1,6 @@
+### 📁 [3.1.1.3 MetaDataVersion](https://mineunyoung.gitbook.io/3.1.1.3-metadataversion/3.1.1-study/3.1.1.3-metadataversion)
+- 📝 [3.1.1.3.7 CodeList](https://mineunyoung.gitbook.io/3.1.1.3-metadataversion/3.1.1-study/3.1.1.3-metadataversion/3.1.1.3.7-codelist)
+- 📝 [3.1.1.3.8 ArchiveLayout](https://mineunyoung.gitbook.io/3.1.1.3-metadataversion/3.1.1-study/3.1.1.3-metadataversion/3.1.1.3.8-archivelayout)
+- 📝 [3.1.1.3.9 MethodDef](https://mineunyoung.gitbook.io/3.1.1.3-metadataversion/3.1.1-study/3.1.1.3-metadataversion/3.1.1.3.9-methoddef)
+- 📝 [3.1.1.3.10 Presentation](https://mineunyoung.gitbook.io/3.1.1.3-metadataversion/3.1.1-study/3.1.1.3-metadataversion/3.1.1.3.10-presentation)
+- 📝 [3.1.1.3.11 ConditionDef](https://mineunyoung.gitbook.io/3.1.1.3-metadataversion/3.1.1-study/3.1.1.3-metadataversion/3.1.1.3.11-conditiondef)
