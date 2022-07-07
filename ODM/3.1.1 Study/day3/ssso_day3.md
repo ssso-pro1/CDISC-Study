@@ -1,0 +1,5 @@
+# 📁[3.1.1.3 MetaDataVersion](https://app.gitbook.com/s/W8FVNr6JfpxtukiZpAMX/3.1-odm/3.1.1-study/3.1.1.3-metadataversion)
+- 📑[ItemGroupDef](https://app.gitbook.com/s/W8FVNr6JfpxtukiZpAMX/3.1-odm/3.1.1-study/3.1.1.3-metadataversion/itemgroupdef)
+  - 📌[ItemGroupDef](https://app.gitbook.com/s/W8FVNr6JfpxtukiZpAMX/3.1-odm/3.1.1-study/3.1.1.3-metadataversion/itemgroupdef/itemref)
+- 📑[ItemDef](https://app.gitbook.com/s/W8FVNr6JfpxtukiZpAMX/3.1-odm/3.1.1-study/3.1.1.3-metadataversion/itemdef)
+- 📑[CodeList](https://app.gitbook.com/s/W8FVNr6JfpxtukiZpAMX/3.1-odm/3.1.1-study/3.1.1.3-metadataversion/codelist)
